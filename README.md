@@ -40,16 +40,16 @@ By using logistic regression, we build a simple yet effective binary classificat
 
 ## 📁 Project Structure
 
-student-placement-predictor/
-├── data/ # Dataset CSV
-├── notebooks/ # EDA and model development
-├── src/ # Modular Python scripts
-│ └── model.py
-├── app.py # Streamlit app
-├── model.pkl # Trained model
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── .gitignore
+- student-placement-predictor/
+- ├── data/ # Dataset CSV
+- ├── notebooks/ # EDA and model development
+- ├── src/ # Modular Python scripts
+- │ └── model.py
+- ├── app.py # Streamlit app
+- ├── model.pkl # Trained model
+- ├── requirements.txt # Python dependencies
+- ├── README.md # Project documentation
+- └── .gitignore
 
 ---
 
@@ -84,51 +84,29 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
-🔗 Live Demo
-🎯 Try it out here: https://your-streamlit-link.streamlit.app
-(Enter CGPA and IQ → get instant prediction)
 
 ---
 
-✅ Results & Metrics
-Metric	Value (Example)
-Accuracy	91.2%
-Precision	89.5%
-Recall	93.1%
-F1 Score	91.2%
-ROC-AUC	0.94
+### ✅ Results & Metrics
+- Metric	Value (Example)
+- Accuracy	91.2%
+- Precision	89.5%
+- Recall	93.1%
+- F1 Score	91.2%
+- ROC-AUC	0.94
 
 The model performs well on imbalanced classes with proper threshold tuning.
 
 ---
 
 ### 📈 Future Improvements
-Add more features: internships, projects, communication score
+- Add more features: internships, projects, communication score
 
-Use advanced models (e.g., XGBoost, Random Forest)
+- Use advanced models (e.g., XGBoost, Random Forest)
 
-Integrate database storage for user input
+- Integrate database storage for user input
 
-Improve UI design with Streamlit components
-
-Built with curiosity, chai ☕, and a few too many Stack Overflow tabs.
-
-
----
-
-### ✅ Why this works:
-
-- Clear **problem statement**
-- Strong technical keywords for recruiters
-- Professional **project structure**
-- Real **model evaluation metrics**
-- Future roadmap (shows growth mindset)
-- Encourages **exploration** and live demo usage
-- Clean and readable formatting
-
----
-
-Let me know if you'd like me to customize this for your actual GitHub and deployment link — or help you generate those evaluation metrics from your model!
+- Improve UI design with Streamlit components
 
 ---
 
