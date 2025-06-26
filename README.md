@@ -132,7 +132,7 @@ Let me know if you'd like me to customize this for your actual GitHub and deploy
 
 ---
 
-- 🧑‍💻 Author
+### 🧑‍💻 Author
 - Meet Sabaliya
 - ML & Python Developer | MCA Graduate
 - 📫 LinkedIn: https://www.linkedin.com/in/meet-sabaliya-61ab34207/ 
