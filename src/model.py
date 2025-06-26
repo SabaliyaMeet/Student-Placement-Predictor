@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv('realistic_student_placement_data.csv')
+df = pd.read_csv('data/realistic_student_placement_data.csv')
 
 df.head()
 
