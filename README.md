@@ -84,6 +84,9 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
+### 🔗 Live Demo
+🎯 Try it out here: [https://your-streamlit-link.streamlit.app](https://student-placement-predictor.streamlit.app/)
+(Enter CGPA and IQ → get instant prediction)
 
 ---
 
