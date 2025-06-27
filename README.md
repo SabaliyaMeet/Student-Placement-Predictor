@@ -74,7 +74,7 @@ The dataset contains the following columns:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/student-placement-predictor.git
+git clone https://github.com/SabaliyaMeet/student-placement-predictor.git
 cd student-placement-predictor
 
 # Install dependencies
